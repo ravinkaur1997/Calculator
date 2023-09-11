@@ -1,4 +1,4 @@
-I have created a Calculator project using HTML, CSS and Javascript.
+I created a simple and intuitive layout that includes a display for input and output, a keypad for numbers and operations, and a toggle button for the theme. I use HTML and CSS to create the structure and style the calculator and Javascrpit for the functionality.
 
 Here are some sample screenshots:
 
